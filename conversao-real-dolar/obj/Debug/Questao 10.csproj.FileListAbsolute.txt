@@ -1,0 +1,7 @@
+C:\Users\luisf\OneDrive\Área de Trabalho\programacao\Questao 1\Questao 10\bin\Debug\Questao 10.exe.config
+C:\Users\luisf\OneDrive\Área de Trabalho\programacao\Questao 1\Questao 10\bin\Debug\Questao 10.exe
+C:\Users\luisf\OneDrive\Área de Trabalho\programacao\Questao 1\Questao 10\bin\Debug\Questao 10.pdb
+C:\Users\luisf\OneDrive\Área de Trabalho\programacao\Questao 1\Questao 10\obj\Debug\Questao 10.csproj.AssemblyReference.cache
+C:\Users\luisf\OneDrive\Área de Trabalho\programacao\Questao 1\Questao 10\obj\Debug\Questao 10.csproj.CoreCompileInputs.cache
+C:\Users\luisf\OneDrive\Área de Trabalho\programacao\Questao 1\Questao 10\obj\Debug\Questao 10.exe
+C:\Users\luisf\OneDrive\Área de Trabalho\programacao\Questao 1\Questao 10\obj\Debug\Questao 10.pdb
